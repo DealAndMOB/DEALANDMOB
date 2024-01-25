@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BrayanEstevezC&show_icons=true&locale=en" alt="dealandmob" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dealandmob&" alt="dealandmob" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BrayanEstevezC&" alt="dealandmob" /></p>
