@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi 👋, I'm Dilan</h1>
 <h3 align="center">student today, engineer tomorrow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dealandmob&label=Profile%20views&color=0e75b6&style=flat" alt="dealandmob" /> </p>
