@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilan</h1>
 <h3 align="center">student today, engineer tomorrow</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dealandmob&theme=neon&label=Profile%20views&color=0e75b6&style=flat" alt="dealandmob" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dealandmob&label=Profile%20views&color=0e75b6&style=flat&theme=neon" alt="dealandmob" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dealandmob" alt="dealandmob" /></a> </p>
 
@@ -16,4 +16,4 @@
 
 <p> &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dealandmob&show_icons=true&theme=neon&locale=en" alt="dealandmob" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dealandmob&show_&theme=neon&" alt="dealandmob" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dealandmob&theme=neon&" alt="dealandmob" /></p>
