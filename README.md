@@ -19,7 +19,7 @@
 
  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dealandmob&show_icons=true&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api?username=dealandmob&show_icons=true&theme=neon "
     media="(prefers-color-scheme: dark)"
   />
   <source
