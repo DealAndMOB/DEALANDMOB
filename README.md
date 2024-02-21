@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dealandmob&label=Profile%20views&color=0e75b6&style=flat" alt="dealandmob" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dealandmob&theme=darkhub" alt="dealandmob" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dealandmob&theme=onestar" alt="dealandmob" /></a> </p>
 
 
 
