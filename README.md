@@ -18,6 +18,6 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dealandmob&show_icons=true&theme=midnight-purple&locale=en" alt="dealandmob" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dealandmob&&theme=midnight-purple" alt="dealandmob" /></p>
+<p style="border-top = 10px"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dealandmob&&theme=midnight-purple" alt="dealandmob" /></p>
 
 
