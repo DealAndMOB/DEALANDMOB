@@ -31,4 +31,4 @@
 
 <p> &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dealandmob&show_icons=true&theme=neon&locale=en" alt="dealandmob" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dealandmobshow_&theme=neon&" alt="dealandmob" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dealandmob&show_&theme=neon&" alt="dealandmob" /></p>
