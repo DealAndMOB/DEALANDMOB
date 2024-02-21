@@ -15,6 +15,6 @@
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dealandmob&show_icons=true&locale=en&layout=compact" alt="dealandmob" style="background-color: black;" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dealandmob&show_icons=true&locale=en" alt="dealandmob" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dealandmob&show_icons=true&locale=en" alt="dealandmob" /></p>
 
 <p style="background-color: black;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dealandmob&" alt="dealandmob" /></p>
