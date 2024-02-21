@@ -15,7 +15,7 @@
 
  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dealandmob&show_icons=true&theme=transparent"
+    srcset="https://github-readme-stats.vercel.app/api?username=dealandmob&show_icons=true&theme=merko"
     media="(prefers-color-scheme: dark)"
   />
   <source
