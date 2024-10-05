@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Dilan's%20Portfolio&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=55&descAlign=50" width="100%">
 Dilan | Software Engineer in Training
-Show Image
-Show Image
 </div>
 💼 Professional Summary
 Dedicated software engineering student with a passion for creating efficient, scalable solutions. Committed to continuous learning and applying cutting-edge technologies to solve real-world problems.
