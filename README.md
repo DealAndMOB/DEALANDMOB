@@ -4,6 +4,8 @@ Dilan | Software Engineer in Training
 </div>
 💼 Professional Summary
 Dedicated software engineering student with a passion for creating efficient, scalable solutions. Committed to continuous learning and applying cutting-edge technologies to solve real-world problems.
+
+<br></br>
 🛠 Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cs&theme=dark" alt="Tech Stack">
