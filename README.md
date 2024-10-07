@@ -15,6 +15,7 @@ Dedicated software engineering student with a passion for creating efficient, sc
   <img src="https://github-readme-stats.vercel.app/api?username=dealandmob&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFD700&icon_color=FFD700" alt="GitHub Stats" height="170">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dealandmob&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFD700" alt="Top Languages" height="170">
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dealandmob&theme=highcontrast&hide_border=true&background=000000&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFD700" alt="GitHub Streak">
 </div>
